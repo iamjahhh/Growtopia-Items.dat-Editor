@@ -1,0 +1,17 @@
+﻿  ItemDatabase.cc
+E:\Growtopia\ItemEditor\ItemEditor\ItemDatabase.hh(22,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ItemDatabase.cc')
+  
+E:\Growtopia\ItemEditor\ItemEditor\ItemDatabase.hh(22,55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ItemDatabase.cc')
+  
+E:\Growtopia\ItemEditor\ItemEditor\ItemDatabase.cc(16,14): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+E:\Growtopia\ItemEditor\ItemEditor\ItemDatabase.cc(38,23): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  11 of 260 functions ( 4.2%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    17 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ItemEditor.vcxproj -> E:\Growtopia\ItemEditor\x64\Release\ItemEditor.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
