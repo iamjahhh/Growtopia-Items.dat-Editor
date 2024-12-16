@@ -1,0 +1,2 @@
+# Growtopia Items.dat Editor
+ 
